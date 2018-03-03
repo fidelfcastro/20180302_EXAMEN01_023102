@@ -1,0 +1,2 @@
+Utilize el patron de diseño de Strategy. Tengo una clase abstracta Banco y mis interfaces Protocolos y Formatos. Mis bancos heredan de banco 
+y despues utilice el modelo de Strategy como mencione para realizar la funcionalidad
